@@ -1,4 +1,4 @@
-//Cambio realizado por Pablo
+//Corrección del desarrollador 1
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
