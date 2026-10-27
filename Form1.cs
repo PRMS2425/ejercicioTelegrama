@@ -1,4 +1,5 @@
 //Cambio realizado por Pablo
+//Simulación de cambio a radiobutton
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
